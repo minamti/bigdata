@@ -81,6 +81,16 @@ Big Data Blogs
 
 http://www.bigdata-madesimple.com/a-complete-list-of-big-data-blogs/
 
+Twitter Engineering
+
+https://engineering.twitter.com/
+
+Facebook Engineering
+
+https://www.facebook.com/Engineering
+
+https://code.facebook.com/
+
 CodeRust
 
 http://coderust.com/
