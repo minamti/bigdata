@@ -77,3 +77,22 @@ MapR Blog
 
 https://www.mapr.com/blog
 
+Big Data Blogs
+
+http://www.bigdata-madesimple.com/a-complete-list-of-big-data-blogs/
+
+CodeRust
+
+http://coderust.com/
+
+Cracking the Coding Interview
+
+http://www.crackingthecodinginterview.com/
+
+Talent Buddy
+
+http://www.talentbuddy.co/
+
+HackerRank
+
+https://www.hackerrank.com/
