@@ -65,5 +65,15 @@ Apache Kafka
 
 http://kafka.apache.org/
 
+Hue
 
+http://gethue.com/blog/
+
+Cloudera Blog
+
+http://blog.cloudera.com/blog/
+
+MapR Blog
+
+https://www.mapr.com/blog
 
