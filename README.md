@@ -33,6 +33,10 @@ Hadoop
 
 http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html
 
+Apache Zookeeper
+
+http://zookeeper.apache.org/
+
 HBase
 
 http://hbase.apache.org/
@@ -106,3 +110,8 @@ http://www.talentbuddy.co/
 HackerRank
 
 https://www.hackerrank.com/
+
+Other Papers
+
+http://web.stanford.edu/class/cs240/
+
