@@ -115,3 +115,5 @@ Other Papers
 
 http://web.stanford.edu/class/cs240/
 
+http://web.stanford.edu/class/cs240/readings/
+
